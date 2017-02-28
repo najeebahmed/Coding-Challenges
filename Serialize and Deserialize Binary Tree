@@ -1,3 +1,31 @@
+    // Encodes a tree to a single string.
+    public string serialize(TreeNode root) {
+        //serial sequence is root left right...
+        string serial = "";
+        
+        //if root is null return empty string
+        if (root == null)
+            return serial;
+        
+        //concatenate root to string
+        serial += root.val + "|";
+        
+        //recursively concatenate left node and children
+        if (root.left != null) {
+            serial += serialize(root.left);
+        } else {
+            serial += "|";
+        }
+        
+        //recursively concatenate right node and children
+        if (root.right != null) {
+            serial += serialize(root.right);
+        } else {
+            serial += "|";
+        }
+        return serial;
+    }
+    
     // Decodes your encoded data to tree.
     public TreeNode deserialize(string data) {
         //return null if no data
