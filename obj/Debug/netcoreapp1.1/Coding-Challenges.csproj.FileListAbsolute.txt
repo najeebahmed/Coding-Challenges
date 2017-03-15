@@ -1,0 +1,8 @@
+/Users/najeebahmed/MEGA/Workspace/Coding-Challenges/bin/Debug/netcoreapp1.1/Coding-Challenges.deps.json
+/Users/najeebahmed/MEGA/Workspace/Coding-Challenges/bin/Debug/netcoreapp1.1/Coding-Challenges.runtimeconfig.json
+/Users/najeebahmed/MEGA/Workspace/Coding-Challenges/bin/Debug/netcoreapp1.1/Coding-Challenges.runtimeconfig.dev.json
+/Users/najeebahmed/MEGA/Workspace/Coding-Challenges/obj/Debug/netcoreapp1.1/Coding-Challenges.AssemblyInfo.cs
+/Users/najeebahmed/MEGA/Workspace/Coding-Challenges/bin/Debug/netcoreapp1.1/Coding-Challenges.dll
+/Users/najeebahmed/MEGA/Workspace/Coding-Challenges/bin/Debug/netcoreapp1.1/Coding-Challenges.pdb
+/Users/najeebahmed/MEGA/Workspace/Coding-Challenges/obj/Debug/netcoreapp1.1/Coding-Challenges.dll
+/Users/najeebahmed/MEGA/Workspace/Coding-Challenges/obj/Debug/netcoreapp1.1/Coding-Challenges.pdb
