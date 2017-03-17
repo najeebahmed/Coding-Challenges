@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/CodingChallenge/src/Day_27_RegEx_Patterns_and_intro_to_Databases.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="Day_27_RegEx_Patterns_and_intro_to_Databases"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="CodingChallenge"/>
+</launchConfiguration>
