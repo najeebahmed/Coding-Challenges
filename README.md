@@ -3,13 +3,13 @@
 
 ## LeetCode Algorithms
 
-**01** Two Sum
-**02** Add Two Numbers
-**03** Longest Substring Without Repeating Characters
-**07** Reverse Integer
-**09** Palindrome Number
-**13** Roman to Integer
-**14** Longest Common Prefix
+**01** Two Sum   
+**02** Add Two Numbers   
+**03** Longest Substring Without Repeating Characters   
+**07** Reverse Integer   
+**09** Palindrome Number   
+**13** Roman to Integer   
+**14** Longest Common Prefix   
 
 ## HackerRank's 30 Days of Code Challenges
 
