@@ -1,6 +1,16 @@
 # Coding-challenges
 #### Solutions to online HackerRank.com and LeetCode challenges
 
+## LeetCode Algorithms
+
+**01** Two Sum
+**02** Add Two Numbers
+**03** Longest Substring Without Repeating Characters
+**07** Reverse Integer
+**09** Palindrome Number
+**13** Roman to Integer
+**14** Longest Common Prefix
+
 ## HackerRank's 30 Days of Code Challenges
 
 **Day 0:** Hello, World.  
